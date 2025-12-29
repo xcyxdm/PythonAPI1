@@ -1,0 +1,3 @@
+setx API_KEY "YOUR_API_KEY_HERE"
+
+$Env:API_KEY
